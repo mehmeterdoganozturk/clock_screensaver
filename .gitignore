@@ -1,0 +1,15 @@
+# Python Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Proprietary / binary references & archives
+*.dmg
+*.zip
+*.tar.gz
+
+# Local configs and logs
+*.log
+.cache/
+.DS_Store

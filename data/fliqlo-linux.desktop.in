@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Fliqlo
+Comment=Flip saat ekran koruyucusunu şimdi başlat
+Exec=/usr/bin/python3 @DEST@/fliqlo_linux/clock.py
+Icon=fliqlo-linux
+Terminal=false
+Categories=Utility;Clock;
+Keywords=clock;screensaver;saat;ekran koruyucu;flip;
+StartupNotify=false
+Actions=preview;
+
+[Desktop Action preview]
+Name=Pencerede önizle
+Exec=/usr/bin/python3 @DEST@/fliqlo_linux/clock.py --preview

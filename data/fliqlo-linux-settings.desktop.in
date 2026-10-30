@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Fliqlo Ayarları
+Comment=Flip saat ekran koruyucusu ayarları
+Exec=/usr/bin/python3 @DEST@/fliqlo_linux/settings.py
+Icon=fliqlo-linux
+Terminal=false
+Categories=Settings;Utility;
+Keywords=clock;screensaver;saat;ekran koruyucu;flip;

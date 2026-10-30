@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect x="4" y="16" width="120" height="96" rx="16" fill="#000"/>
+  <rect x="12" y="26" width="50" height="76" rx="6" fill="#1a1a1a"/>
+  <rect x="66" y="26" width="50" height="76" rx="6" fill="#1a1a1a"/>
+  <g fill="#bdbdbd" font-family="Helvetica, Ubuntu Sans, DejaVu Sans, sans-serif" font-weight="700" font-size="44" text-anchor="middle">
+    <text x="37" y="80">1</text>
+    <text x="91" y="80">2</text>
+  </g>
+  <rect x="12" y="63" width="104" height="2" fill="#000"/>
+</svg>
