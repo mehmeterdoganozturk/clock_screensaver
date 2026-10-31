@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+#
+# Copyright (c) 2026 Mehmet Erdoğan Öztürk <mehmeterdoganozturk@gmail.com>
+# Licensed under the MIT License. See LICENSE in the project root for details.
+#
 """Fliqlo ekran koruyucu servisi (GNOME / Wayland).
 
 GNOME Wayland'de X11 ekran koruyucu API'leri yoktur. Bu servis Mutter'ın
